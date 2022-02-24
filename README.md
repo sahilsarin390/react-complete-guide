@@ -1,3 +1,5 @@
+[![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/react-complete-guide)](https://badges.pufler.dev)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
